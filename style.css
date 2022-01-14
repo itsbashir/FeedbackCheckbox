@@ -44,7 +44,7 @@ body {
 }
 
 .toggle:checked + .label {
-  background-color: rgb(144, 142, 142);
+  background-color: rgb(100, 92, 92);
 }
 
 .ball {
